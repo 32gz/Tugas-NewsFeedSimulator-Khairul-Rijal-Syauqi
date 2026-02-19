@@ -4,22 +4,22 @@ Proyek ini adalah aplikasi simulator News Feed yang dibangun menggunakan Kotlin 
 
 Fitur Utama
 
-News Flow Simulation: Aliran data berita otomatis setiap 2 detik menggunakan Flow.
+1. News Flow Simulation: Aliran data berita otomatis setiap 2 detik menggunakan Flow.
 
-Category Filter: Filter berita berdasarkan kategori Tech atau Sports.
+2. Category Filter: Filter berita berdasarkan kategori Tech atau Sports.
 
-Data Transformation: Transformasi judul berita menjadi format uppercase sebelum ditampilkan.
+3. Data Transformation: Transformasi judul berita menjadi format uppercase sebelum ditampilkan.
 
-StateFlow: Penyimpanan jumlah total berita yang dibaca secara reaktif.
+4. StateFlow: Penyimpanan jumlah total berita yang dibaca secara reaktif.
 
-Async Coroutines: Pengambilan detail berita secara asinkron tanpa memblokir antarmuka.
+5. Async Coroutines: Pengambilan detail berita secara asinkron tanpa memblokir antarmuka.
 
 Cara Menjalankan
 
-Buka folder proyek menggunakan Android Studio.
+1. Buka folder proyek menggunakan Android Studio.
 
-Tunggu proses sinkronisasi Gradle hingga selesai.
+2. Tunggu proses sinkronisasi Gradle hingga selesai.
 
-Pastikan modul composeApp sudah terpilih pada bagian run configuration.
+3. Pastikan modul composeApp sudah terpilih pada bagian run configuration.
 
-Jalankan aplikasi pada emulator atau perangkat Android yang terhubung.
+4. Jalankan aplikasi pada emulator atau perangkat Android yang terhubung.
