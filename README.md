@@ -15,7 +15,7 @@ NIM: 123140143
 Screenshot Profile View
 
 
-![image alt](https://github.com/32gz/Tugas-NewsFeedSimulator-ProfileApp-Khairul-Rijal-Syauqi/blob/tugas2-profileapp/screen_profile.png)
+![image alt](https://github.com/32gz/Tugas2-NewsFeedSimulator-ProfileApp-Khairul-Rijal-Syauqi/blob/tugas3-profileapp/screen_profile.png)
 
 
 Screenshot Edit Form
