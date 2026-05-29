@@ -23,9 +23,9 @@ NIM: 123140143
 
 
 
-Screenshot Dark Mode
+**Dark Mode**
 
 
-![image alt](https://github.com/32gz/Tugas2-NewsFeedSimulator-ProfileApp-Khairul-Rijal-Syauqi/blob/tugas3-profileapp/screen_dark.png)
+![image alt](https://github.com/32gz/Tugas2-NewsFeedSimulator-ProfileApp-Khairul-Rijal-Syauqi/blob/tugas4-profileapp/Screenshot%202026-05-29%20224353.png)
 
 
