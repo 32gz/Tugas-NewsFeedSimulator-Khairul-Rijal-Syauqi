@@ -27,6 +27,6 @@ Screenshot Edit Form
 Screenshot Dark Mode
 
 
-![image alt](https://github.com/32gz/Tugas-NewsFeedSimulator-ProfileApp-Khairul-Rijal-Syauqi/blob/tugas2-profileapp/screen_dark.png)
+![image alt](https://github.com/32gz/Tugas2-NewsFeedSimulator-ProfileApp-Khairul-Rijal-Syauqi/blob/tugas3-profileapp/screen_dark.png)
 
 
